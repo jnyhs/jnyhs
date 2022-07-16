@@ -1,4 +1,4 @@
-### Olá! Sou  a Jenny! Seja bem vindx! 👋
+### Olá, Seja bem vindx! 👋
 
 <div align="center">
   <a href="https://github.com/jnyhs">
