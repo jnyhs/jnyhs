@@ -1,4 +1,10 @@
-### Olá, Seja bem vindx! 👋
+## Olá, Seja bem vindx! 👋
+
+
+
+  <div align="center">
+  <img align="center" alt="GirlsSTEM" width="300" src="https://monophy.com/media/VUXHPjOtXkAwbb89JA/monophy.gif"> </div>
+  
 
 <div align="center">
   <a href="https://github.com/jnyhs">
@@ -21,5 +27,6 @@
   <a href="https://www.linkedin.com/in/jenniferhsantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/jnyhs/jnyhs/blob/output/github-contribution-grid-snake.svg)
+  
  
 </div>
