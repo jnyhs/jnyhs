@@ -6,9 +6,10 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnyhs&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jenny-Js" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-  <img align="center" alt="Jenny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jenny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Jenny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -
+  <img align="center" alt="Jenny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -
+  <img align="center" alt="Jenny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -
+  <img align="center" alt="Jenny-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"> -
   <img align="right" alt="Jenny-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/976236972702044231/997865304011059372/download20220706105952.png?width=473&height=473">
 </div>
   
