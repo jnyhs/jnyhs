@@ -1,9 +1,5 @@
 ## Olá, Seja bem vindx! 👋
 
-
-
-  <div align="center">
-  <img align="center" alt="GirlsSTEM" width="300" src="https://monophy.com/media/VUXHPjOtXkAwbb89JA/monophy.gif"> </div>
   
 
 <div align="center">
